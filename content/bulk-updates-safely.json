@@ -1,0 +1,19 @@
+{
+  "slug": "bulk-updates-safely",
+  "title": "Making Bulk Content Updates Safely",
+  "category": "Content",
+  "author": "Arjun Nair",
+  "date": "2026-10-27",
+  "status": "draft",
+  "summary": "A checklist for changing many pages at once: preview, back up, apply, verify.",
+  "image_alt": "Illustration of a checklist next to a stack of pages",
+  "tags": [
+    "process",
+    "quality"
+  ],
+  "body": [
+    "Before a bulk change, preview exactly which pages will change.",
+    "Back up the originals, apply the change, then re-run quality checks.",
+    "Related: {{metadata-matters}}."
+  ]
+}

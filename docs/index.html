@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Articles | Content Hub</title>
+<meta name="description" content="Short guides on technology, web and content practices.">
+<meta name="keywords" content="content, web, technology">
+<link rel="stylesheet" href="./static/style.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header"><div class="wrap">
+<a class="brand" href="./index.html">Content Hub</a>
+<nav aria-label="Main"><a href="./index.html">Articles</a></nav>
+</div></header>
+<main id="main" class="wrap">
+<h1>Content Hub</h1>
+<p class="lead">Short guides on technology, web and content practices.</p>
+<div class="filters" role="group" aria-label="Filter by category">
+<button class="chip active" data-cat="All">All</button><button class="chip" data-cat="AI">AI</button><button class="chip" data-cat="Content">Content</button><button class="chip" data-cat="Technology">Technology</button><button class="chip" data-cat="Web">Web</button>
+</div>
+<ul class="cards" id="cards">
+<li data-cat="AI"><span class="badge">AI</span><h2><a href="article/intro-to-genai-tools.html">Using GenAI Tools to Edit Faster</a></h2><p>How to use GenAI assistants to tidy text, check consistency and draft summaries, while still reviewing every result.</p><p class="meta">2026-10-20</p></li>
+<li data-cat="Content"><span class="badge">Content</span><h2><a href="article/metadata-matters.html">Why Metadata Matters for Findability</a></h2><p>Titles, descriptions and tags help search engines and colleagues find the right content quickly.</p><p class="meta">2026-10-14</p></li>
+<li data-cat="Content"><span class="badge">Content</span><h2><a href="article/writing-accessible-content.html">Writing Accessible Web Content</a></h2><p>Practical habits such as alt text, clear headings and descriptive links that make content usable for everyone.</p><p class="meta">2026-10-09</p></li>
+<li data-cat="Web"><span class="badge">Web</span><h2><a href="article/how-websites-load.html">How a Website Loads in Under a Second</a></h2><p>From typing a URL to seeing a page: DNS, servers, HTML, CSS and JavaScript explained step by step.</p><p class="meta">2026-10-05</p></li>
+<li data-cat="Technology"><span class="badge">Technology</span><h2><a href="article/what-is-an-api.html">What Is an API? A Beginner&#x27;s Guide</a></h2><p>A plain-language introduction to APIs, how apps talk to each other, and why developers rely on them every day.</p><p class="meta">2026-10-02</p></li>
+</ul>
+
+</main>
+<footer class="site-footer"><div class="wrap">Content Hub &middot; sample project &middot; Built with Python templates</div></footer>
+<script src="static/filter.js"></script>
+</body>
+</html>

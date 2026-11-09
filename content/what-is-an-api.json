@@ -1,0 +1,19 @@
+{
+  "slug": "what-is-an-api",
+  "title": "What Is an API? A Beginner's Guide",
+  "category": "Technology",
+  "author": "Maya Rao",
+  "date": "2026-10-02",
+  "status": "published",
+  "summary": "A plain-language introduction to APIs, how apps talk to each other, and why developers rely on them every day.",
+  "image_alt": "Illustration of two apps exchanging data through an API",
+  "tags": [
+    "api",
+    "basics"
+  ],
+  "body": [
+    "An API (Application Programming Interface) is a set of rules that lets one piece of software ask another for data or actions.",
+    "Think of a restaurant: you (the app) tell the waiter (the API) what you want, and the kitchen (the server) prepares it.",
+    "Next, read {{how-websites-load}} to see where APIs fit into loading a web page."
+  ]
+}

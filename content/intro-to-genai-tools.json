@@ -1,0 +1,19 @@
+{
+  "slug": "intro-to-genai-tools",
+  "title": "Using GenAI Tools to Edit Faster",
+  "category": "AI",
+  "author": "Maya Rao",
+  "date": "2026-10-20",
+  "status": "published",
+  "summary": "How to use GenAI assistants to tidy text, check consistency and draft summaries, while still reviewing every result.",
+  "image_alt": "Illustration of a person reviewing text suggested by an AI assistant",
+  "tags": [
+    "genai",
+    "productivity"
+  ],
+  "body": [
+    "GenAI tools can suggest cleaner wording, shorter summaries and consistent terminology.",
+    "Always review the output: tools can miss context or introduce mistakes.",
+    "Good prompts state the audience, the tone and the length you want."
+  ]
+}

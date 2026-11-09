@@ -1,0 +1,20 @@
+{
+  "slug": "metadata-matters",
+  "title": "Why Metadata Matters for Findability",
+  "category": "Content",
+  "author": "Meghana K.",
+  "date": "2026-10-14",
+  "status": "published",
+  "summary": "Titles, descriptions and tags help search engines and colleagues find the right content quickly.",
+  "image_alt": "Illustration of tags and labels attached to documents",
+  "tags": [
+    "metadata",
+    "seo",
+    "content"
+  ],
+  "body": [
+    "Metadata is information about content: title, summary, author, date, tags and status.",
+    "Consistent metadata lets teams search, filter and update many pages at once.",
+    "Pair this with {{writing-accessible-content}} to keep pages both findable and usable."
+  ]
+}

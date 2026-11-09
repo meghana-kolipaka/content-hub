@@ -1,0 +1,20 @@
+{
+  "slug": "writing-accessible-content",
+  "title": "Writing Accessible Web Content",
+  "category": "Content",
+  "author": "Meghana K.",
+  "date": "2026-10-09",
+  "status": "published",
+  "summary": "Practical habits such as alt text, clear headings and descriptive links that make content usable for everyone.",
+  "image_alt": "Illustration of a web page with headings and alt text labels",
+  "tags": [
+    "accessibility",
+    "content",
+    "seo"
+  ],
+  "body": [
+    "Accessible content works for people using screen readers, keyboards and small screens.",
+    "Use one main heading per page, keep headings in order, and write alt text that describes the purpose of an image.",
+    "Link text should make sense alone. Prefer 'read the style guide' over 'click here'."
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "how-websites-load",
+  "title": "How a Website Loads in Under a Second",
+  "category": "Web",
+  "author": "Arjun Nair",
+  "date": "2026-10-05",
+  "status": "published",
+  "summary": "From typing a URL to seeing a page: DNS, servers, HTML, CSS and JavaScript explained step by step.",
+  "image_alt": "Diagram showing a browser requesting a web page from a server",
+  "tags": [
+    "web",
+    "html",
+    "performance"
+  ],
+  "body": [
+    "When you enter a URL, the browser finds the server through DNS and requests the page.",
+    "The server returns HTML. The browser then loads CSS for styling and JavaScript for behavior.",
+    "Small images and clean markup help pages load faster. See {{writing-accessible-content}} for related best practices."
+  ]
+}
